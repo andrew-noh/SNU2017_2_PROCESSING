@@ -4,7 +4,7 @@
 
 [Assignment 1](https://github.com/andrew-noh/SNU2017_2_PROCESSING/tree/master/Assignments/Assignment%201)
 
-![A1 image](https://raw.github.com/andrew-noh/SNU2017_2_PROCESSING/tree/master/Assignments/Assignment%201/Screenshot.png)
+![A1 image](Assignments/Assignment 2/Clicker screenshot.png)
 
 과제2: 반복적인 클릭이나 키보드 입력
 
